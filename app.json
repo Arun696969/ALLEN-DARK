@@ -1,14 +1,14 @@
 { 
-  "name": "DARK-SHAN-MD",
-  "description": "A Whatsapp md bot built By kushan sewmina to make experience better",
-  "logo": "https://telegra.ph/file/ee0f303f5da6d86d024e0.jpg",
+  "name": "ALLEN-DARK",
+  "description": "A Whatsapp md bot built By Allen Oberoii to make experience better",
+  "logo": "https://telegra.ph/file/379521f005b82d9e89ca3.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "darkshan-Two", "DARK-SHAN-MD", "DARKSHAN","darkshan-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "DARK-SHAN-MD"
+      "value": "𝐀𝐥𝐥𝐞𝐧❤️𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -29,7 +29,7 @@
     },
    "THUMB_IMAGE": {
     "description": "Put Your Image Url for bot.",
-     "value": "https://telegra.ph/file/ee0f303f5da6d86d024e0.jpg"
+     "value": "https://telegra.ph/file/379521f005b82d9e89ca3.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -67,7 +67,7 @@
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*DARK-SHAN-MD*"
+	    "value": "𝚫𝐋𝐋𝚵𝚴❤️𝚯𝚩𝚵𝚪𝚯𝚰𝚰🥀"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -80,14 +80,14 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94Xxxxxxxx"
+       "value": "918318542882"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to DARK SHAN MD Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
-       "value": "ADD A OPEN AI KEY",
+       "value": "",
        "required" :false
   },
   "MONGODB_URI": {
@@ -96,11 +96,11 @@
   },
     "THEME": {
     "description": "Don't Change . No Need To Change  Avilable DARKSHAN,DARKSHAN-EN .",
-     "value": "DARKSHAN"
+     "value": "ALLEN-DARK"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-         "value": "public"
+         "value": "private"
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all messages.",
@@ -109,11 +109,11 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "DARK-SHAN-MD"
+    "value": "💕👀 𝑳𝑶𝑽𝑬 𝒀𝑶𝑼 𝑫𝑨𝑹𝑳𝑰𝑵𝑮🙈😚#𝑫𝒊𝒗𝒚𝒂🥹✨🌎"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "dark-shanbot"
+    "value": "𝐀𝐥𝐥𝐞𝐧❤️𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
