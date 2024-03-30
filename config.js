@@ -6,11 +6,11 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://KING-MDBOT:KING-MDBOT@cluster0.ltjjfkx.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'textnow1pak@gmail.com'
-global.github = 'https://github.com/kushansewmina1234/DARK-SHAN-MD'
-global.location = 'pakistan'
-global.gurl = 'https://instagram.com/naveeddogar_' // add your username
-global.sudo = process.env.SUDO || '9471234567'
+global.email = 'death69ban@proton.me'
+global.github = 'https://github.com/Arun696969/ALLEN-DARK'
+global.location = 'india'
+global.gurl = 'https://instagram.com/aryan_roy.in' // add your username
+global.sudo = process.env.SUDO || '918318542882'
 global.devs = '94772108460';
 global.website = 'https://github.com/kushansewmina1234/DARK-SHAN-MD' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ee0f303f5da6d86d024e0.jpg'
