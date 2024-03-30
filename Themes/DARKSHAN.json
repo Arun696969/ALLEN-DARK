@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "kushansewmina1234",
+  "AUTHOR": "𝐀𝐥𝐥𝐞𝐧❤️𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
@@ -10,7 +10,7 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": " Powered by DARK-SHAN-MD",
+          "botName": " Powered by 𝐀𝐥𝐥𝐞𝐧❤️𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Sir",
           "pic1": "https://telegra.ph/file/8c4247c94ad072eb079ff.jpg",
@@ -32,11 +32,11 @@
           "antlink": "Link Detected.\n*Good Bye Sir*",
           "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by DARK-SHAN-MD*",
           "mention": " Please mention any user Sir",
-          "title": "𝙳𝙰𝚁𝙺 𝚂𝙷𝙰𝙽 𝙼𝙳",
-          "footer": "𝙳𝙰𝚁𝙺 𝚂𝙷𝙰𝙽 𝙼𝙳",
-          "by": "Made by: *CitelVoid*",
+          "title": "𝐀𝐥𝐥𝐞𝐧❤️𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
+          "footer": "𝐀𝐥𝐥𝐞𝐧❤️𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
+          "by": "Made by: *𝐀𝐥𝐥𝐞𝐧❤️𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
-          "success": "Done ✅",
+          "success": "Done✅",
           "dot": "Did you mean *help?*",
           "couple_male": "*I dont want to die alone,I want a female yaar*",
           "couple_female": "*I dont want to die alone,I want a male yaar*",
